@@ -4,8 +4,5 @@ from .. import Provider as PhoneNumberProvider
 
 class Provider(PhoneNumberProvider):
     formats = (
-        '+44(0)##########',
-        '+44(0)#### ######',
-        '+44(0)#########',
-        '+44(0)#### #####',
+        '44 01 69 8# 1####',
     )
