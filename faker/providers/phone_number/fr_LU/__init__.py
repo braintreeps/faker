@@ -4,5 +4,6 @@ from .. import Provider as PhoneNumberProvider
 
 class Provider(PhoneNumberProvider):
     formats = (
-        '+33 1 ## ## ## ##',
+        '352 79 ####',
+        '352 2679 ####',
     )
