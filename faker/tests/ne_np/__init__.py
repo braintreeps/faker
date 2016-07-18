@@ -37,7 +37,12 @@ class ne_NP_FactoryTestCase(unittest.TestCase):
       from faker.providers.person.ne_NP import Provider
       first_names = Provider.first_names
       name = self.factory.name()
-      first_name, last_name = name.split()
+
+      if len(name.split()) == 2:
+          first_name, last_name = name.split()
+      else:
+          prefix, first_name, last_name = name.split()
+
       assert first_name
       assert isinstance(first_name, string_types)
       assert first_name in first_names
@@ -48,4 +53,4 @@ class ne_NP_FactoryTestCase(unittest.TestCase):
       assert last_name in last_names
       
       
-      
+
