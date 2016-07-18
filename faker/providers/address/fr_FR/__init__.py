@@ -110,6 +110,8 @@ class Provider(AddressProvider):
         ('971', 'Guadeloupe'), ('972', 'Martinique'), ('973', 'Guyane'), ('974', 'La Réunion'), ('976', 'Mayotte')
     )
 
+    postcode_formats = ('#####',)
+
     @classmethod
     def street_prefix(cls):
         """
