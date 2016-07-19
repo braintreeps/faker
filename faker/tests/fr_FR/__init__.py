@@ -17,3 +17,8 @@ class fr_FR_FactoryTestCase(unittest.TestCase):
       assert postcode
       assert isinstance(postcode, string_types)
       self.assertRegexpMatches(postcode, r'\A\d{5}$')
+
+      from faker.providers.address.fr_FR import Provider
+      formats = Provider.postcode_formats
+      assert '### ##' not in formats
+      assert '#####' in formats

@@ -39,7 +39,7 @@ class Provider(AddressProvider):
     )
 
     building_number_formats = ('%', '%#', '%#', '%#', '%##')
-    postcode_formats = ('#####', '## ###')
+    postcode_formats = ('#####', )
     countries = (
         'Afghanistan', 'Afrique du sud', 'Albanie', 'Algérie', 'Allemagne', 'Andorre', 'Angola', 'Anguilla',
         'Antarctique', 'Antigua et Barbuda', 'Antilles néerlandaises', 'Arabie saoudite', 'Argentine', 'Arménie',
@@ -109,8 +109,6 @@ class Provider(AddressProvider):
         ('92', 'Hauts-de-Seine'), ('93', 'Seine-Saint-Denis'), ('94', 'Val-de-Marne'), ('95', "Val-d'Oise"),
         ('971', 'Guadeloupe'), ('972', 'Martinique'), ('973', 'Guyane'), ('974', 'La Réunion'), ('976', 'Mayotte')
     )
-
-    postcode_formats = ('#####',)
 
     @classmethod
     def street_prefix(cls):
