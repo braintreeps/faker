@@ -2,6 +2,25 @@
 Changelog
 =========
 
+`0.6.0 - 09-August-2016 <http://github.com/joke2k/faker/compare/v0.5.11...v0.6.0>`__
+--------------------------------------------------------------------------------------
+
+* Dropped Python 2.6 support
+
+
+`0.5.11 - 09-August-2016 <http://github.com/joke2k/faker/compare/v0.5.10...v0.5.11>`__
+--------------------------------------------------------------------------------------
+
+* Add optional parameter `sex` to `profile` and `simple_profile`. Thanks @navyad.
+* Fix whitespace in dk_DK provider last_names/last_name. Thanks @iAndriy.
+* Fix utf8 coding issue with ``address/fi_FI`` provider. Thanks @delneg.
+* ! Latest version to support Python 2.6
+
+`0.5.10 - 01-August-2016 <http://github.com/joke2k/faker/compare/v0.5.9...v0.5.10>`__
+---------------------------------------------------------------------------------
+
+* Fix random_sample_unique. Thanks @cecedille1.
+
 `0.5.9 - 08-July-2016 <http://github.com/joke2k/faker/compare/v0.5.8...v0.5.9>`__
 ---------------------------------------------------------------------------------
 
@@ -66,7 +85,7 @@ Changelog
 * Check that randomly produced language codes are parseable as locale by the
   factory constructor. Thanks @kdeldycke.
 * Fix chinese random language code. Thanks @kdeldycke.
-* Remove duplicate words from Lorem provider. Thanks @jeffwidman. 
+* Remove duplicate words from Lorem provider. Thanks @jeffwidman.
 
 `0.5.3 - 21-September-2015 <http://github.com/joke2k/faker/compare/v0.5.2...v0.5.3>`__
 --------------------------------------------------------------------------------------

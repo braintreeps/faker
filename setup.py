@@ -10,7 +10,7 @@ README = io.open(os.path.join(here, 'README.rst'), encoding="utf8").read()
 NEWS = io.open(os.path.join(here, 'CHANGELOG.rst'), encoding="utf8").read()
 
 
-version = '0.5.9'
+version = '0.6.0'
 
 # this module can be zip-safe if the zipimporter implements iter_modules or if
 # pkgutil.iter_importer_modules has registered a dispatch for the zipimporter.
@@ -37,10 +37,10 @@ setup(
         'Intended Audience :: Developers',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.5',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Topic :: Software Development :: Testing',
         'Topic :: Utilities',
@@ -60,10 +60,6 @@ setup(
         "six",
     ],
     extras_require={
-        ':python_version=="2.6"': [
-            'importlib',
-            'ipaddress',
-        ],
         ':python_version=="2.7"': [
             'ipaddress',
         ],
