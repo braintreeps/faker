@@ -72,9 +72,6 @@ class Provider(AddressProvider):
     postcode_formats = (
         '### ##',
         '#####',
-        '#####',
-        'ΤΚ ### ##',
-        'ΤΚ #####',
     )
 
     address_formats = (
