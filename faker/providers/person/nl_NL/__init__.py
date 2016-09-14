@@ -108,7 +108,7 @@ class Provider(PersonProvider):
         'Blom', 'Blom', 'Blonk', 'Boddaugh', 'Boer', 'Boer', 'Boers', 'Boeser',
         'Boetet', 'Bolkesteijn', 'Booden', 'Boogaerts', 'Borman', 'Bos', 'Bos',
         'Bosch', 'Bosch', 'Bosman', 'Boudewijns', 'Bouhuizen',
-        'Bourgondië, van', 'Bouthoorn', 'Bouwhuisen', 'Brandon', 'Brands',
+        'Bouthoorn', 'Bouwhuisen', 'Brandon', 'Brands',
         'Brandt', 'Bresse', 'Bresé', 'Breugelensis', 'Briere', 'Brievingh',
         'Brisee', 'Brizee', 'Broeckx', 'Broeders', 'Broek', 'Broekhoven',
         'Broeshart', 'Bronder', 'Brouwer', 'Brouwer', 'Bruggeman', 'Brugman',
