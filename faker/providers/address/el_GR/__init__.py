@@ -70,7 +70,6 @@ class Provider(AddressProvider):
     )
 
     postcode_formats = (
-        '### ##',
         '#####',
     )
 
