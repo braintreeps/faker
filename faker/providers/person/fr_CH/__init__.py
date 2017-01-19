@@ -43,7 +43,7 @@ class Provider(PersonProvider):
     first_names_female = ['Alice', 'Alicia', 'Ana', 'Anna', 'Anne', 'Aurélie',
         'Camille', 'Caroline', 'Catherine', 'Chantal', 'Charlotte', 'Chloé', 
         'Christiane', 'Christine', 'Clara', 'Claudine', 'Corinne', 'Céline', 
-        'Danielle', 'Denise', 'Eliane', 'Elisa', 'Elisabeth', 'Elodie', 
+        'Danielle', 'Denise', 'Eliane', 'Elisa',  'Elodie', 
         'Emilie', 'Emma', 'Eva', 'Fabienne', 'Françoise', 'Georgette', 
         'Germaine', 'Hélène', 'Isabelle', 'Jacqueline', 'Jeanne', 'Jessica',
         'Josiane', 'Julie', 'Laetitia', 'Lara', 'Laura', 'Laurence', 'Liliane',

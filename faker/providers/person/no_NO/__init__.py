@@ -57,7 +57,7 @@ class Provider(PersonProvider):
         'Fredrik',
         'Frode',
         'Geir',
-        'Gunnar',
+        
         'Hans',
         'Harald',
         'Helge',
@@ -153,7 +153,7 @@ class Provider(PersonProvider):
         'Cathrine',
         'Cecilie',
         'Elin',
-        'Elisabeth',
+        
         'Elise',
         'Eli',
         'Ellen',
@@ -165,7 +165,7 @@ class Provider(PersonProvider):
         'Grete',
         'Grethe',
         'Gro',
-        'Gunn',
+        
         'Hanna',
         'Hanne',
         'Hege',
@@ -277,7 +277,7 @@ class Provider(PersonProvider):
         'Evensen',
         'Fredriksen',
         'Gulbrandsen',
-        'Gundersen',
+        
         'Hagen',
         'Halvorsen',
         'Hansen',

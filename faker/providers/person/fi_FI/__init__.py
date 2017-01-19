@@ -73,7 +73,7 @@ class Provider(PersonProvider):
         'Arja', 'Armi', 'Asta', 'Auli', 'Aulikki', 'Aune', 'Aura', 'Aurora', 
         'Bertta', 'Eedit', 'Eelin', 'Eerika', 'Eeva', 'Eeva-Liisa', 'Eevi', 
         'Eija', 'Eila', 'Eine', 'Eini', 'Eira', 'Elena', 'Eliina', 'Eliisa', 
-        'Eliisabet', 'Elina', 'Elisa', 'Elisabet', 'Elise', 'Ella', 'Ellen', 
+         'Elina', 'Elisa',  'Elise', 'Ella', 'Ellen', 
         'Elli', 'Elma', 'Elna', 'Elsa', 'Else', 'Elsi', 'Elvi', 'Elviira', 
         'Emilia', 'Emma', 'Emmi', 'Enni', 'Eriika', 'Erja', 'Essi', 
         'Ester', 'Esteri', 'Eveliina', 'Fanni', 'Hanna', 'Hanna-Leena', 

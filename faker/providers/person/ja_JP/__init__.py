@@ -116,7 +116,7 @@ class Provider(PersonProvider):
         'Aota', 'Aoyama', 'Ishida', 'Idaka', 'Ito', 'Uno', 'Ekoda', 'Ogaki',
         'Kato', 'Kano', 'Kijima', 'Kimura', 'Kiriyama', 'Kudo', 'Koizumi', 'Kobayashi', 'Kondo',
         'Saito', 'Sakamoto', 'Sasaki', 'Sato', 'Sasada', 'Suzuki', 'Sugiyama',
-        'Takahashi', 'Tanaka', 'Tanabe', 'Tsuda', 'Tsuchiya',
+         'Tanaka', 'Tanabe', 'Tsuda', 'Tsuchiya',
         'Nakajima', 'Nakamura', 'Nagisa', 'Nakatsugawa', 'Nishinosono', 'Nomura',
         'Harada', 'Hamada', 'Hirokawa', 'Fujimoto',
         'Matsumoto', 'Miyake', 'Miyagawa', 'Murayama',

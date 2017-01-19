@@ -38,7 +38,7 @@ class Provider(PersonProvider):
         'Vinicio', 'Walter', 'Xavier', 'Yago', 'Zaccaria', 'Abramo', 'Adriano', 'Alan', 'Albino', 'Alessio',
         'Alighiero',
         'Amerigo', 'Anastasio', 'Antimo', 'Antonio', 'Arduino', 'Aroldo', 'Arturo', 'Augusto', 'Avide', 'Baldassarre',
-        'Bettino',
+        
         'Bortolo', 'Caligola', 'Carmelo', 'Celeste', 'Ciro', 'Costanzo', 'Dante', 'Danthon', 'Davis', 'Demis', 'Dindo',
         'Domiziano', 'Edipo', 'Egisto', 'Eliziario', 'Emidio', 'Enzo', 'Eriberto', 'Erminio', 'Ettore', 'Eustachio',
         'Fabio', 'Fernando',

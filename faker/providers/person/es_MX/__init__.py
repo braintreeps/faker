@@ -108,7 +108,7 @@ class Provider(PersonProvider):
 'Estrada', 'Fajardo', 'Farías', 'Feliciano', 'Fernández', 'Ferrer',
 'Fierro', 'Figueroa', 'Flores', 'Flórez', 'Fonseca', 'Franco', 'Frías',
 'Fuentes', 'Gaitán', 'Galarza', 'Galindo', 'Gallardo', 'Gallegos',
-'Galván', 'Gálvez', 'Gamboa', 'Gamez', 'Gaona', 'Garay', 'García',
+'Galván', 'Gálvez', 'Gamboa',  'Gaona', 'Garay', 'García',
 'Garibay', 'Garica', 'Garrido', 'Garza', 'Gastélum', 'Gaytán', 'Gil',
 'Girón', 'Godínez', 'Godoy', 'Gómez', 'Gonzales', 'González', 'Gollum',
 'Gracia', 'Granado', 'Granados', 'Griego', 'Grijalva', 'Guajardo',

@@ -49,7 +49,7 @@ class Provider(PersonProvider):
         'Alice', 'Amélie', 'Anaïs', 'Anastasie', 'Andrée', 'Anne', 'Anouk', 'Antoinette', 'Arnaude', 'Astrid', 'Audrey',
         'Aurélie', 'Aurore', 'Bernadette', 'Brigitte', 'Capucine', 'Caroline', 'Catherine', 'Cécile', 'Céline',
         'Célina', 'Chantal', 'Charlotte', 'Christelle', 'Christiane', 'Christine', 'Claire', 'Claudine', 'Clémence',
-        'Colette', 'Constance', 'Corinne', 'Danielle', 'Denise', 'Diane', 'Dorothée', 'Édith', 'Éléonore', 'Élisabeth',
+        'Colette', 'Constance', 'Corinne', 'Danielle', 'Denise', 'Diane', 'Dorothée', 'Édith', 'Éléonore', 
         'Élise', 'Élodie', 'Émilie', 'Emmanuelle', 'Françoise', 'Frédérique', 'Gabrielle', 'Geneviève', 'Hélène',
         'Henriette', 'Hortense', 'Inès', 'Isabelle', 'Jacqueline', 'Jeanne', 'Jeannine', 'Joséphine', 'Josette',
         'Julie', 'Juliette', 'Laetitia', 'Laure', 'Laurence', 'Lorraine', 'Louise', 'Luce', 'Lucie', 'Lucy',
