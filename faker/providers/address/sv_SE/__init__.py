@@ -84,7 +84,7 @@ class Provider(AddressProvider):
         'Syrien', 'Tadzjikistan', 'Taiwan', 'Tanzania', 'Tchad', 'Thailand',
         'Tjeckien', 'Togo', 'Tokelauöarna', 'Tonga', 'Trinidad och Tobago',
         'Tunisien', 'Turkiet', 'Turkmenistan', 'Turks-och Caicosöarna',
-        'Tuvalu', 'Tyskland', 'Uganda', 'Ukraina', 'Ungern', 'Uruguay', 'USA',
+        'Tuvalu', 'Tyskland', 'Uganda', 'Ukraina', 'Ungern', 'Uruguay',
         'Uzbekistan', 'Vanuatu', 'Vatikanstaten', 'Venezuela', 'Vietnam',
         'Vitryssland', 'Wake', 'Wallis-och Futunaöarna', 'Zambia', 'Zimbabwe',
         'Österrike', 'Östtimor'
